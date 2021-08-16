@@ -33,8 +33,10 @@ The omnet++ and pure c++ classes are separate yet fairly intertwined. The omnet+
 It is possible to use the pure c++ classes with another event simulator/framework, but as time has gone on, in this version they are more intertwined than ever.
 
 Feel free to drop me a message if you want to contribute/branch/pull etc, or more likely if you want to know how it works - happy to help either way.
-**Testing** Uji coba program pada TangleSim https://github.com/richardg93/TangleSim 
-## INPUT PROGRAM
+
+**Testing** Uji coba program pada TangleSim https://github.com/richardg93/TangleSim
+
+## INPUT PROGRAM "Testing"
 ```bash
 Preparing for running configuration General, run #0...
 Assigned runID=General-0-20210816-16:44:03-59943
@@ -56,6 +58,7 @@ Running simulation...
      Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
      Messages:  created: 506   present: 1   in FES: 1
 ````
+![simulasi](sc1.png)
 ## OUTPUT TipAge
 ```bash
 TxNumber,Tip Age,First Approval Time,Attach Time,Direct Approvers
