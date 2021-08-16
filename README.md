@@ -1,4 +1,6 @@
 # Implementasi dan perbandingan TSA (Algoritma Pemilihan Tips) yang berbeda untuk cryptocurrency IOTA
+**note: ** diterjemahkan dari sumber asli penulis di https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA
+
 - IOTA : www.descryptions.com/Iota.pdf
 - G-IOTA : https://ieeexplore.ieee.org/document/8845163
 - E-IOTA : https://ieeexplore.ieee.org/document/9223294
@@ -12,4 +14,5 @@ Folder data berisi file log, statistik kinerja untuk skrip TSA, .dot display (gr
 - Notebook TSAResult.ipynb memungkinkan Anda untuk melakukan barplot untuk membandingkan kinerja TSA yang berbeda.
 - TangleGen.py memungkinkan Anda untuk menampilkan Tangle berkode warna di folder im. Ini menggunakan file log dari folder Traking.
 RTracking berisi file log dari git referensi.
+
 Untuk detail selengkapnya lihat laporan: https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA/blob/main/Compte%20Rendu.pdf.
