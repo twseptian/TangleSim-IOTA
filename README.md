@@ -1,5 +1,5 @@
 # Implementasi dan perbandingan TSA (Algoritma Pemilihan Tips) yang berbeda untuk cryptocurrency IOTA
-**note: ** diterjemahkan dari sumber asli penulis di https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA
+**Note:** diterjemahkan dari sumber asli penulis di https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA
 
 - IOTA : www.descryptions.com/Iota.pdf
 - G-IOTA : https://ieeexplore.ieee.org/document/8845163
